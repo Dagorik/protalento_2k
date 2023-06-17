@@ -1,0 +1,35 @@
+header {
+    background-color: bisque;
+}
+
+footer {
+    height: 200px;
+    background-color: black;   
+    color: white;
+}
+
+#tamales {
+    background-color: darkgray;
+    text-align: center;
+    padding: 30px;
+    margin: 20px;
+    border: 5px dashed;
+}
+
+img {
+    height: 200px;
+    width: 300px;
+}
+
+#descripcon-tamales {
+    color: rebeccapurple;
+}
+
+.text-inline {
+    display: inline;
+}
+
+li {
+    margin-top: 20px;
+}
+
