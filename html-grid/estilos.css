@@ -1,0 +1,36 @@
+.wrapper {
+    background-color: green;
+    display: grid;
+    height: 700px;
+    grid-template-columns: auto auto auto;
+    padding: 30px;
+    /* grid-template-rows: 200px 500px; */    
+    /* gap: 10px; */
+}
+
+#uno {
+    background-color: red;
+    grid-column: 1 / 3;
+}
+
+#dos {
+    background-color: purple;
+    /* grid-column: 1 / ; */
+}
+
+#tres {
+    background-color: blue;
+    grid-row: 2 / 4;
+}
+
+#cuatro {
+    background-color: coral;
+}
+
+#cinco {
+    background-color: gray;
+}
+
+#seis {
+    background-color: yellow;
+}
